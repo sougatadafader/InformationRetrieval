@@ -1,0 +1,91 @@
+The Perplexity of G1:
+-----------------------------------------------
+
+Perplexity for iteration #1 is: 3.7461599035143
+Perplexity for iteration #2 is: 9.2549829299368
+Perplexity for iteration #3 is: 18.473705637221
+Perplexity for iteration #4 is: 31.863358768672
+Perplexity for iteration #5 is: 49.406715780366
+Perplexity for iteration #6 is: 70.604072820684
+Perplexity for iteration #7 is: 94.651230860765
+Perplexity for iteration #8 is: 120.59520468857
+Perplexity for iteration #9 is: 147.48087609981
+Perplexity for iteration #10 is: 174.44569093286
+Perplexity for iteration #11 is: 200.77581051622
+Perplexity for iteration #12 is: 225.92496181145
+Perplexity for iteration #13 is: 249.51039443126
+Perplexity for iteration #14 is: 271.29424589104
+Perplexity for iteration #15 is: 291.15859268012
+Perplexity for iteration #16 is: 309.07906689518
+Perplexity for iteration #17 is: 325.10025690295
+Perplexity for iteration #18 is: 339.31443022607
+Perplexity for iteration #19 is: 351.844154856
+Perplexity for iteration #20 is: 362.82874780084
+Perplexity for iteration #21 is: 372.41415455619
+Perplexity for iteration #22 is: 380.74571753738
+Perplexity for iteration #23 is: 387.96326874306
+Perplexity for iteration #24 is: 394.198022391
+Perplexity for iteration #25 is: 399.57081487153
+Perplexity for iteration #26 is: 404.19131968997
+Perplexity for iteration #27 is: 408.15794248112
+Perplexity for iteration #28 is: 411.55816959515
+Perplexity for iteration #29 is: 414.46920106228
+Perplexity for iteration #30 is: 416.95874488666
+Perplexity for iteration #31 is: 419.08588566509
+Perplexity for iteration #32 is: 420.90196797108
+Perplexity for iteration #33 is: 422.45145537562
+Perplexity for iteration #34 is: 423.77274085592
+Perplexity for iteration #35 is: 424.89889494313
+Perplexity for iteration #36 is: 425.85834532563
+Perplexity for iteration #37 is: 426.67548659142
+Perplexity for iteration #38 is: 427.37122201409
+Perplexity for iteration #39 is: 427.9634412582
+
+
+
+
+The Perplexity of G2:
+------------------------------------------------
+
+Perplexity for iteration #1 is: 3.7467215888293
+Perplexity for iteration #2 is: 9.3740674763002
+Perplexity for iteration #3 is: 19.051370343664
+Perplexity for iteration #4 is: 33.575452328498
+Perplexity for iteration #5 is: 53.25263707543
+Perplexity for iteration #6 is: 77.854232492242
+Perplexity for iteration #7 is: 106.69918544926
+Perplexity for iteration #8 is: 138.79804254818
+Perplexity for iteration #9 is: 173.01516613842
+Perplexity for iteration #10 is: 208.21287795359
+Perplexity for iteration #11 is: 243.35822749052
+Perplexity for iteration #12 is: 277.58761233905
+Perplexity for iteration #13 is: 310.23403908502
+Perplexity for iteration #14 is: 340.82630954271
+Perplexity for iteration #15 is: 369.07016133032
+Perplexity for iteration #16 is: 394.82000366156
+Perplexity for iteration #17 is: 418.04766924127
+Perplexity for iteration #18 is: 438.81236959496
+Perplexity for iteration #19 is: 457.23419358182
+Perplexity for iteration #20 is: 473.47214563846
+Perplexity for iteration #21 is: 487.70684666811
+Perplexity for iteration #22 is: 500.12751862221
+Perplexity for iteration #23 is: 510.92263547086
+Perplexity for iteration #24 is: 520.27355466262
+Perplexity for iteration #25 is: 528.35047313386
+Perplexity for iteration #26 is: 535.31013123058
+Perplexity for iteration #27 is: 541.29478523144
+Perplexity for iteration #28 is: 546.43206627685
+Perplexity for iteration #29 is: 550.8354310182
+Perplexity for iteration #30 is: 554.60498336402
+Perplexity for iteration #31 is: 557.82850670223
+Perplexity for iteration #32 is: 560.58259300198
+Perplexity for iteration #33 is: 562.93379106354
+Perplexity for iteration #34 is: 564.93972289463
+Perplexity for iteration #35 is: 566.65013664076
+Perplexity for iteration #36 is: 568.10787834017
+Perplexity for iteration #37 is: 569.34977438128
+Perplexity for iteration #38 is: 570.40742301008
+Perplexity for iteration #39 is: 571.30789742086
+Perplexity for iteration #40 is: 572.07436551954
+Perplexity for iteration #41 is: 572.72663286211
+Perplexity for iteration #42 is: 573.28161590346

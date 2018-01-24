@@ -1,0 +1,91 @@
+Explanation for high PageRank value for the top pages:
+=========================================================
+
+
+Top 10 Pages based on their pagerank scores are :
+
+International_Standard_Book_Number = 0.052078672901329
+Digital_object_identifier = 0.043655182621618
+International_Standard_Serial_Number = 0.031036507023495
+Portable_Document_Format = 0.022566332094395
+National_Diet_Library = 0.01820021184813
+Bibcode = 0.018188756230829
+PubMed_Identifier = 0.014820299957795
+Wayback_Machine = 0.013696033025518
+OCLC = 0.012342882365189
+United_States_dollar = 0.010023296984042
+
+
+Top 10 pages based on their in-link count for G1:
+
+International_Standard_Book_Number = 479
+Digital_object_identifier = 454
+Tropical_cyclone = 410
+Bibcode = 341
+Extratropical_cyclone = 269
+Wayback_Machine = 268
+National_Oceanic_and_Atmospheric_Administration = 255
+Storm_surge = 238
+National_Hurricane_Center = 226
+Wind_shear = 219
+
+total number of pages in the graph are :
+1000
+pages in the graph with no out-links (sinks) are :
+15
+pages in the graph with no in-links (sources) are :
+0
+
+
+
+
+Top 10 pages based on their pageranks for G2:
+
+International_Standard_Book_Number = 0.022394627022619
+Integrated_Authority_File = 0.02184503614986
+Virtual_International_Authority_File = 0.019751816876032
+Wayback_Machine = 0.017669383603001
+Digital_object_identifier = 0.015456628681945
+United_States = 0.015376732804513
+International_Standard_Serial_Number = 0.009916068074979
+United_Kingdom = 0.0085440673930005
+Canada = 0.0080584946592763
+ISO_3166 = 0.0075808514418161
+
+
+Top 10 pages based on their in-link count for G2:
+
+International_Standard_Book_Number = 576
+Turks_and_Caicos_Islands = 432
+United_Kingdom = 404
+Bermuda = 357
+Montserrat = 350
+Anguilla = 350
+British_Virgin_Islands = 343
+Cayman_Islands = 338
+United_States = 337
+Geographic_coordinate_system = 300
+
+
+Explanation:
+============
+PageRank is a query-independent metadata that improves ranking for web search. There is a concept
+of in-link (number of links that point to that web page) and out-link (number of links that 
+originate from that web-page). Thereby the number of inlinks for each page imparts in calculating
+the rank of that web-page. The page-rank is also boosted if a more popular website points to that
+website.For example a page ABC having one in-link from a popular page like CNN or BBC wil have 
+higher page rank value than another page p2 which has more than three-four inlinks from less popular
+websites, such as personal blogs. In this example "United States" has higher page rank than 
+"United Kingdom" despite the former having lesser number of inlinks than the later.
+
+Moreover, no of outlinks are are also considered for pagerank. If a page P1 is getting an in-link
+from another page, say p2 and p2 has several out-links, then the effect on page-rank of P1 for the
+in-link from p2 is very less.
+
+
+Conclusion:
+===========
+
+From the above results, we can see that the usual order of a pagerank is when a page has many in-links.
+But there are also cases which are explined above where the number of in-links doesn't play any part in
+the pagerank calculation.
