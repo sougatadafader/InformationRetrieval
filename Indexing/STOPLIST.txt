@@ -1,0 +1,62 @@
+STOPLIST
+The stoplist generated is below:
+
+the 
+of 
+and 
+to 
+is 
+in 
+that 
+by 
+was 
+from 
+edit 
+with 
+were 
+which 
+are 
+a 
+this 
+also 
+for 
+have 
+as 
+its 
+into 
+has 
+such
+
+#######################################################################################################################
+There are numerous processes to generate stoplist.
+Using low idf terms as stop words. 
+Considering most frequent terms as stop words. 
+
+We have generated our stoplist in the following process:
+
+> Generate the term frequencies for each unique word across the corpus
+> Sort the terms in decreasing order of term frequency
+> Use top N terms to be the stop words
+> Hand-filter the stop list to exclude the terms which are relevant to the domain of the documents being indexed
+
+
+########################################################################################################################
+Here in our scenario these unique words were hand-filtered from the stoplist
+
+hurricane 6233
+tropical 5486
+storm 4328
+
+In our scenario the value of N is 30. This means we have used the top 30 terms from the term frequency table to generate
+the stoplist.
+
+How to choose Cutoff Value:
+
+The cut off value of my Stoplist is 30. The cut off value is considered such that we include only those words in stoplist
+which does not add much value or no value to our index. 
+While considering the cut off value we should keep in mind, not to include terms which is topically related.
+Examples: hurricane, tropical, storm 
+
+By looking closely we can observe that the stoplist contains the most frequent and popular words in English language.
+Hence we can easily make-out a stop word.
+#########################################################################################################################
